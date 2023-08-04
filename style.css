@@ -164,27 +164,10 @@ body{
     color: white;
 }
 
-@media (max-width:576px){
-    .cart{
-        width: 85%;
-    }
 
-}
-@media (width:360px){
-    .cart{
-        width: 75%;
-    }
-
-}
-@media (max-width:768px){
-    .cart{
-        width: 50%;
-    }
-
-}
 @media (max-width:968px){
     .cart{
-        width: 35%;
+        width: 75%;
     }
 
 }
